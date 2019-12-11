@@ -17,6 +17,7 @@
         <module>active-object</module>
         <module>monitor-object</module>
         <module>half-sync-half-async</module>
+        <module>leader-follower</module>
     </modules>
 
     <dependencies>
