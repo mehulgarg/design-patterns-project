@@ -10,9 +10,7 @@ import org.zezutom.concurrencypatterns.test.util.TestExecutor;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author Tomas Zezula
- *
- * Proves that the implementation of org.zezutom.concurrencypatterns.org.zezutom.concurrencypatterns.activeobject.ThreadUnsafeCounter
+ * Proves that the implementation of ThreadUnsafeCounter
  * is NOT thread-safe. The tests "pass" in a a sense that the actual results differ from
  * the expected values.
  */

@@ -8,8 +8,6 @@ import org.zezutom.concurrencypatterns.activeobject.ThreadSafeCounter;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author Tomas Zezula
- *
  * Proves the core functionality, all tests should pass.
  */
 public class ThreadSafeCounterSingleThreadedTest {
